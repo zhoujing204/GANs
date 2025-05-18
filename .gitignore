@@ -3,6 +3,7 @@
 **/inception_v3_google-1a9a5a14.pth
 **/vgg16-397923af.pth
 **/pix2pix_15000.pth
+**/cycleGAN_100000.pth
 
 # Byte-compiled / optimized / DLL files
 .vscode/
