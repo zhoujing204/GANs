@@ -5,6 +5,9 @@
 **/pix2pix_15000.pth
 **/cycleGAN_100000.pth
 
+# ignore mac files
+.DS_Store
+
 # Byte-compiled / optimized / DLL files
 .vscode/
 __pycache__/
